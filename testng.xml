@@ -2,7 +2,7 @@
 <suite name="actitime-automation.imp" verbose="1">
     <test name="Regression1" parallel="classes" thread-count="2">
         <classes>
-            <class name="actitimeautomation1.TestUser11"/>
+            <class name="actitimeautomationPractise.Javacoading"/>
         </classes>
     </test>
 </suite>
